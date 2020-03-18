@@ -22,6 +22,7 @@ for(var i = 0; i < foo.length; i++){
 2. download semua file yang ada di repo ini.
 3. pada katalon klik file lalu open project
 4. pilih file di TestCases -> pilih salah satu testCase (klik 2x) dari (3 test case yang terdapat di file tersebut)
+5. edit setiap script test case untuk file .APK nya , sesuai penyimpanan di komputer masing" (saya letakan .APK nya di folder androidapp/5_6291790354614059221.apk) -> ini saya ambil dari klikdokter -> playstore
 5. klik run paling atas lalu pilih android
 6. pastikan sudah memiliki android studio dan sudah memiliki salah satu device mobile android (ex. google pixel)
 7. saat klik run, katalon akan menampilkan emulator untuk simulasi setiap tahap scenario
