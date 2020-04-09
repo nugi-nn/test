@@ -15,6 +15,12 @@ for(var i = 0; i < foo.length; i++){
   console.log(('Item: ' + (i + 1) + ' , ' + foo.length)); 
 }
 ```
+    #### iOS
+    ```sh
+    $ npx react-native run-ios
+    ```
+
+
 //nomor 4
 
 # TEST 2
