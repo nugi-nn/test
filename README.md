@@ -16,9 +16,9 @@ for(var i = 0; i < foo.length; i++){
 }
 ```
     #### iOS
-    ```sh
+    '''sh
     $ npx react-native run-ios
-    ```
+    '''
 
 
 //nomor 4
